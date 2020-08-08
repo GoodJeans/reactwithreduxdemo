@@ -1,0 +1,26 @@
+{
+  "name": "218-react-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoodJeans/reactwithreduxdemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoodJeans/reactwithreduxdemo/issues"
+  },
+  "homepage": "https://github.com/GoodJeans/reactwithreduxdemo#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
+  }
+}
